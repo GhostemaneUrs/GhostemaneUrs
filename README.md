@@ -22,10 +22,10 @@
 
 <div>
   <a href="https://github.com/GhostemaneUrs">
-  <img align="left" height="160rem" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&hide=issues,prs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img align="left" height="160rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=7&theme=buefy"/>
-  <img  align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
-  <img  align="center" height="160rem" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&langs_count=7"/>  
+  <img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&hide=issues,prs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=7&theme=buefy"/>
+  <img  align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img  align="center" height="180rem" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&langs_count=7"/>  
 </div>
 
 ---
