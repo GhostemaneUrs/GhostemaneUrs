@@ -1,9 +1,10 @@
 <div align="center">
-<img alt="Night Coding" style="border-radius:50px; width: 70%" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
+<img src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="center" style="width: 70%" />
 </div>
 
 
 <div style="display: inline_block">
+ 
 - 🔭 I'm currently working with React, NodeJs technologies
 
 - 🌱 I'm currently deepening my knowledge in React and Node Js
@@ -19,10 +20,10 @@
 
 <div align="center">
   <a href="https://github.com/GhostemaneUrs">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
-  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&langs_count=10"/> 
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=10&theme=buefy"/>  
+  <img height="185rem" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="185rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="140rem" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&langs_count=10"/> 
+  <img height="140rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=10&theme=buefy"/>  
   
 </div>
     
