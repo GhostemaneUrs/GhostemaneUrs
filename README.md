@@ -2,17 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
   
-
-- 🔭 I'm currently working with React, NodeJs technologies
+<div style="display: inline_block">
+  <img alt="Night Coding"  height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/Night-Coding.gif" align="right"/>
   
-
+- 🔭 I'm currently working with React, NodeJs technologies 
+  
 - 🌱 I'm currently deepening my knowledge in React and Node Js 
   
-
 - ❓ I would like to learn how to test ReactJs to improve the quality of my work
   
-
 - ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
+ </div><br>
   
 <div align="center">
   <a href="https://github.com/GhostemaneUrs">
