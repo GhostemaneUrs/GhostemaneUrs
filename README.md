@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: inline_block">
-  <img alt="Night Coding"  height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/Night-Coding.gif" align="right"/>
+  <img alt="Night Coding"  height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
 
 - 🔭 I'm currently working with React, NodeJs technologies
 
