@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/greetings.gif" align="center" style="width: 50%" />
+<img src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/greetings.gif" align="center" style="width: 60%" />
 </div>
 
 <div style="display: inline_block">
