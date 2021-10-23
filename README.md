@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/greetings.gif" align="center" style="width: 60%" />
+<img alt="Night Coding" height:auto style="border-radius:50px; width: 70%" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
 </div>
 
 
 <div style="display: inline_block">
-  <img alt="Night Coding" width:26rem height:auto" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
-
 - 🔭 I'm currently working with React, NodeJs technologies
 
 - 🌱 I'm currently deepening my knowledge in React and Node Js
