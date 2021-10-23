@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Night Coding" height:auto style="border-radius:50px; width: 70%" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
+<img alt="Night Coding" style="border-radius:50px; width: 70%" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
 </div>
 
 
