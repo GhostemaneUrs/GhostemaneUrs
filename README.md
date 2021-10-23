@@ -2,8 +2,9 @@
 <img src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/greetings.gif" align="center" style="width: 60%" />
 </div>
 
+
 <div style="display: inline_block">
-  <img alt="Night Coding"  height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
+  <img alt="Night Coding"  height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
 
 - 🔭 I'm currently working with React, NodeJs technologies
 
@@ -11,10 +12,12 @@
 
 - ❓ I would like to learn how to test ReactJs to improve the quality of my work
 
+- 👯 I’m looking to collaborate on React
+
 - ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
 </div>
 
-##
+---
 
 <div align="center">
   <a href="https://github.com/GhostemaneUrs">
@@ -22,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
-##
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +37,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/5dgHuv8r5xkV0RDUqg/giphy.gif"/>
 </div>
 
-##
+---
 
 <div>
    <a href="https://www.linkedin.com/in/andres-jaramillo-284b07199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
