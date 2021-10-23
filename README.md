@@ -15,16 +15,16 @@
 - 👯 I’m looking to collaborate on React
 
 - ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
-</div>
+</div><br>
 
 ---
 
 <div align="center">
   <a href="https://github.com/GhostemaneUrs">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=8&theme=buefy"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=8&theme=buefy"/>  
 </div>
   
 ---
