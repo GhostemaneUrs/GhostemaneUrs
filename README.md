@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block">
-  <img alt="Night Coding"  height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
+  <img alt="Night Coding"  height="190" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/coding.gif" align="right"/>
 
 - 🔭 I'm currently working with React, NodeJs technologies
 
@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on React
 
 - ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
-</div><br>
+</div>
 
 ---
 
