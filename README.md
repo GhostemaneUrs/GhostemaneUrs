@@ -21,10 +21,12 @@
 
 <div align="center">
   <a href="https://github.com/GhostemaneUrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com?user=GhostemaneUrs&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=8&theme=buefy"/>  
 </div>
-
+  
 ---
 
 <div style="display: inline_block"><br>
@@ -46,6 +48,7 @@
   <a href = "mailto:JaramilloG1999@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/GhostemaneUrs/GhostemaneUrs/blob/output/github-contribution-grid-snake.svg)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
