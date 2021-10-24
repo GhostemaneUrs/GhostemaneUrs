@@ -20,12 +20,13 @@
 
 ---
 
-<div>
+<div align="center">
   <a href="https://github.com/GhostemaneUrs">
-  <img align="center" height="165rem" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&hide=issues,prs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="165rem" style="border-radius:50px;" src="https://raw.githubusercontent.com/GhostemaneUrs/GhostemaneUrs/master/resources/night-coding.gif"/>
-  <img align="center" height="165rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=7&theme=buefy"/>
-  <img align="center" height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=7&theme=buefy"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostemaneUrs&theme=buefy&hide_border=true"/>
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=5&theme=buefy"/>
+  <img width="58%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&langs_count=7&theme=buefy"/>
+  
 </div>
 
 ---
