@@ -25,7 +25,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhostemaneUrs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostemaneUrs&theme=buefy&hide_border=true"/>
   <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostemaneUrs&layout=compact&langs_count=5&theme=buefy"/>
-  <img width="58%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&range=all_time&langs_count=4&theme=buefy"/>
+  <img width="58%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GhostemaneUrs&range=all_time&langs_count=3&theme=buefy"/>
 </div>
  
 ---
