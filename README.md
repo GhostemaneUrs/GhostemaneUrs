@@ -28,6 +28,10 @@
 </div>
 
 <!--START_SECTION:waka-->
+```text
+Markdown     24 mins         ███████████████████████░░   91.39 % 
+JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+```
 <!--END_SECTION:waka-->
 
 ---
