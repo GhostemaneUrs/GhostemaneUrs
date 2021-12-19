@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on React
 
-- ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
+- ⚡ Fun fact: I like games like Valorant, Rust, etc
 
 </div><br>
 
